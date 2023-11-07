@@ -1,4 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is yusuf umar faruq========================================================================================================================================Software Engineer-----------------My journey into the tech world has been a unique blend of experiences. Starting as a supervisor in the oil refining industry and briefly exploring affiliate marketing, I eventually found passion in software engineering. Over the past few years, I have immersed myself in learning, actively participating in open source projects, that allowed me to contribute to real-world software development. I'm open to remote software engineering roles. Feel free to contact me, if you have any.* 🌍  I'm based in Nigeria* ✉️  You can contact me at [luwaservices@gmail.com](mailto:luwaservices@gmail.com)* 🚀  I'm currently working on [TalentBridge](http://talentbridge-app.netlify.app/)* 🧠  I'm learning Data structures and Algorithms* 🤝  I'm open to collaborating on open source projects and remote jobs
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is yusuf umar faruq
+========================================================================================================================================
+
+Software Engineer
+-----------------
+
+My journey into the tech world has been a unique blend of experiences. Starting as a supervisor in the oil refining industry and briefly exploring affiliate marketing, I eventually found passion in software engineering. Over the past few years, I have immersed myself in learning, actively participating in open source projects, that allowed me to contribute to real-world software development. I'm open to remote software engineering roles. Feel free to contact me, if you have any.
+
+*   🌍  I'm based in Nigeria
+*   ✉️  You can contact me at [luwaservices@gmail.com](mailto:luwaservices@gmail.com)
+*   🚀  I'm currently working on [TalentBridge](http://talentbridge-app.netlify.app/)
+*   🧠  I'm learning Data structures and Algorithms
+*   🤝  I'm open to collaborating on open source projects and remote jobs
 
 ### Skills
 
