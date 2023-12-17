@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-My journey into the tech world has been a unique blend of experiences. Starting as a supervisor in the oil refining industry and briefly exploring affiliate marketing, I eventually found passion in software engineering. Over the past few years, I have immersed myself in learning, actively participating in open source projects, that allowed me to contribute to real-world software development. I'm open to remote software engineering roles. Feel free to contact me, if you have any.
+I'm an affiliate marketer turned software engineer. I specialize in frontend, primarily with React and node, but love to learn and build with whatever tools are right for the job.I've a thing for open source projects, user-centric solutions, and continuous learning. I'm actively looking for new roles where I can innovate, solve problems, sleep, and repeat. If you think you've got an opening that I might like, let's connect
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [luwaservices@gmail.com](mailto:luwaservices@gmail.com)
