@@ -29,7 +29,7 @@
 
 <hr>
 
-*   💻  Currently looking for open roles
+*   💻  Actively looking for a new role
 *   🚀  Working on [TalentBridge](http://talentbridge-app.netlify.app/)
 *   🤝  I’m looking to collaborate on anything involving javascript/typescript
 *   ✉️  Reach me via [Email](mailto:luwaservices@gmail.com)
