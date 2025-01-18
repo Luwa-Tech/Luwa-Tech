@@ -32,4 +32,4 @@
 *   💻  Actively looking for a new role
 *   🚀  Currently learning AWS
 *   🤝  I’m looking to collaborate on anything involving javascript/typescript
-*   ✉️  Reach me via [Email](mailto:luwaservices@gmail.com)
+*   ✉️  Reach me via [Email](mailto:faruqluwa@gmail.com)
