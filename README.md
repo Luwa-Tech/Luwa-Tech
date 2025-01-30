@@ -30,7 +30,7 @@
 
 <hr>
 
-*   💻  Actively looking for a new role
+*   💻  Actively looking for a new role.
 *   🚀  Currently working on CompeteAI
 *   🤝  I’m looking to collaborate on anything involving Javascript, Typescript, Python
 *   ✉️  Reach me via [Email](mailto:faruqluwa@gmail.com)
